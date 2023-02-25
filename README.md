@@ -1,4 +1,4 @@
-## Hi there, I'm Spiros👋
+## 👋 Hello World, I'm Spiros
 
 
 ### I am an Electronics & Software Engineer, Full Stack Dev, Machine Learning Enthusiast & a Pro Geek :nerd_face:
@@ -8,7 +8,7 @@
 - :seedling: Exploring the space of Machine Learning
 - :zap: In my free time, I am developing useful tools to learn new things
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: My Toolbox :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -24,7 +24,7 @@
 </div>
 
 ---
-Connect with me:
+Connect with me :
 <div id="badges">
   <a href="https://www.linkedin.com/in/spiros-bontomitsidis/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -39,6 +39,10 @@ Connect with me:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
 </div>
+
+
+Coming from <img src="https://cdn-icons-png.flaticon.com/512/323/323302.png" title="Greece" alt="Greece" width="20"/> - 
+Living in <img src="https://cdn-icons-png.flaticon.com/512/197/197583.png" title="Greece" alt="Greece" width="20"/>
 
 ---
 
