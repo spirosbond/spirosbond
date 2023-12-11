@@ -46,7 +46,7 @@ Living in <img src="https://cdn-icons-png.flaticon.com/512/197/197583.png" title
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=spirosbond&theme=dracula)](https://git.io/streak-stats) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spirosbond&show_icons=true&theme=dracula)
